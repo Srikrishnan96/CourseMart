@@ -1,2 +1,1 @@
-# ResearchPedia
-A portal to find research works 
+# Course Mart
